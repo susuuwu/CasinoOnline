@@ -38,8 +38,10 @@ Also look into frontend design and decide if you want to use a custom library se
 - multiple players
 - live server
 
+
+Want to use Tkinter
+
 ## What file structure do we need?
-hi 
-test 
+
 
 Each game would its file, a main navigation file
