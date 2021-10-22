@@ -39,5 +39,7 @@ Also look into frontend design and decide if you want to use a custom library se
 - live server
 
 ## What file structure do we need?
+hi 
+test 
 
 Each game would its file, a main navigation file
